@@ -8,7 +8,7 @@
     <ul>
   <li>Withdraw from checking account</li>
   <li>Deposit from Checking account</li>
-  <li>Withdrw from Saving account</li>
+  <li>Withdraw from Saving account</li>
   <li>Deposit from Saving account</li>
   <li>Check balance</li>
 </ul>
